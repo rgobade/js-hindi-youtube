@@ -1,1 +1,1 @@
-console.log("Hitesh")
+console.log(1+1)
